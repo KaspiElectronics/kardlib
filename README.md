@@ -8,5 +8,9 @@ Fully Featured Arduino Library
 - [ ] Micro Tensor Library
 - [ ] ArdTalk Library( text to speech )
 
+## About
+Copyright (c) 2021 **KaspiElectronics**, \
+all rights reserved.
+
 ## License
 ***MIT***
