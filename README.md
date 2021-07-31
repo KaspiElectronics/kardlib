@@ -1,2 +1,2 @@
 # kardlib
-Full Featured Arduino Library
+Fully Featured Arduino Library
