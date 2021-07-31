@@ -6,7 +6,8 @@ Fully Featured Arduino Library
 - [ ] IR Sensors Library
 - [ ] L298N Module Library
 - [ ] Micro Tensor Library
-- [ ] ArdTalk Library( text to speech )
+- [ ] KardTalk Library( text to speech )
+- [ ] KardOS ( simple rtos )
 
 ## About
 Copyright (c) 2021 **KaspiElectronics**, \
