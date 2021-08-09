@@ -3,7 +3,7 @@ Fully Featured Arduino Library
 
 ## List of Libraries
 - [x] Ultrasonic SRF-05 Library
-- [ ] IR Sensors Library
+- [ ] IR Sensors Library[**WIP**]
 - [ ] L298N Module Library
 - [ ] Micro Tensor Library
 - [ ] KardTalk Library( text to speech )
