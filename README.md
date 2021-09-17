@@ -7,8 +7,8 @@ Fully Featured Arduino Library
 - [ ] JSON Library
 - [ ] L298N Module Library
 - [ ] Micro Tensor Library
-- [ ] KardTalk Library( text to speech )
-- [ ] KardOS ( simple rtos )
+- [ ] KardTalk Library(text to speech)
+- [ ] KardOS (simple rtos)
 
 ## About
 Copyright (c) 2021-2022 **KaspiElectronics**, \
